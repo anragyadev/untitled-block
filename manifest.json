@@ -1,0 +1,23 @@
+{
+  "id": "custom-untitled-block-1793155692278",
+  "name": "Untitled Block",
+  "version": "1.0.0",
+  "description": "Interactive custom block built with the Orbix Block SDK",
+  "author": "Anragya Salgotra's Workspace",
+  "icon": "blocks",
+  "category": "Widgets",
+  "themeMode": "adaptive",
+  "entry": "src/index.tsx",
+  "surfaces": [
+    "block",
+    "fullpage",
+    "sidebar_panel"
+  ],
+  "slashShortcut": "/custom-untitled-block-1793155692278",
+  "capabilities": {
+    "storage": [
+      "local",
+      "persistent"
+    ]
+  }
+}

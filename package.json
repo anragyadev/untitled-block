@@ -1,0 +1,14 @@
+{
+  "name": "custom-untitled-block-1793155692278",
+  "version": "1.0.0",
+  "description": "Interactive custom block built with the Orbix Block SDK",
+  "type": "module",
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@orbixdocs/sdk": "^3.0.0",
+    "@orbix/sdk": "^3.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.469.0"
+  }
+}
